@@ -2,7 +2,6 @@ package com.day1;
 
 /**
  * Created by 谭杰文 on 2017/12/16.
- 我真机智!
  */
 public class Demo5 {
     public static void main(String[] args) {

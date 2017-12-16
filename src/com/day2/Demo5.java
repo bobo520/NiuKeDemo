@@ -13,5 +13,6 @@ public class Demo5 {
     }
     static void b(){}
     static void c(){}
-    void d(){}
+    void d(){
+    }
 }

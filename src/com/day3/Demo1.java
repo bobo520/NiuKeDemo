@@ -25,5 +25,4 @@ public  class Demo1 {
             return b;
         }
     }
-
 }

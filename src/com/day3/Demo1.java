@@ -3,7 +3,7 @@ package com.day3;
 /**
  * Created by 谭杰文 on 2017/12/18.
  */
-public class Demo1 {
+public  class Demo1 {
     public static void main(String args[]){
         int num = 10;
         System.out.println(test(num));
@@ -24,5 +24,6 @@ public class Demo1 {
             b += 10;
             return b;
         }
-        }
+    }
+
 }
